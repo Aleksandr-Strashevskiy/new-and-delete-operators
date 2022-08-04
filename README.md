@@ -1,2 +1,3 @@
 # new-and-delete-operators
-Operators new and delete with custom malloc and free
+
+Global overrides of operators new and delete with using custom malloc and free
